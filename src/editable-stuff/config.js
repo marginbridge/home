@@ -7,9 +7,9 @@ const navBar = {
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
   firstName: "Aulia",
-  middleName: "",
-  lastName: "Pramesthi",
-  message: " Passionate about changing the world with technology. ",
+  middleName: "Pramesthi",
+  lastName: "Wardhani",
+  message: " Data Science | AI/Machine Learning ",
   icons: [
     {
       image: "fa-github",
@@ -54,8 +54,8 @@ const about = {
   imageLink: require("../editable-stuff/auliapramesthi.png"),
   imageSize: 375,
   message:
-    "I'm is Aulia Pramesthi, and I'm deeply passionate about the world of data science. My journey in this field has been an exhilarating exploration of data's hidden stories and the art of transforming raw information into valuable insights.",
-  resume: "https://drive.google.com/file/d/1v3mwP_uaz_1zQxey05nfNYqMbDB9EynH/view?usp=sharing",
+    "I'm Aulia Pramesthi, and I'm deeply passionate about the world of data science. My journey in this field has been an exhilarating exploration of data's hidden stories and the art of transforming raw information into valuable insights.",
+  portofolio: "https://drive.google.com/file/d/1BW9EYwqsAKmVWB-OqP0Vzqi9q5x5A9Q6/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -96,38 +96,38 @@ const leadership = {
 };
 
 // SKILLS SECTION
-const skills = {
-  show: true,
-  heading: "Skills",
-  hardSkills: [
-    { name: "Python", value: 90 },
-    { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 85 },
-    { name: "C/C++", value: 65 },
-    { name: "JavaScript", value: 90 },
-    { name: "React", value: 65 },
-    { name: "HTML/CSS", value: 55 },
-    { name: "C#", value: 80 },
-  ],
-  softSkills: [
-    { name: "Goal-Oriented", value: 80 },
-    { name: "Collaboration", value: 90 },
-    { name: "Positivity", value: 75 },
-    { name: "Adaptability", value: 85 },
-    { name: "Problem Solving", value: 75 },
-    { name: "Empathy", value: 90 },
-    { name: "Organization", value: 70 },
-    { name: "Creativity", value: 90 },
-  ],
-};
+// const skills = {
+//   show: true,
+//   heading: "Skills",
+//   hardSkills: [
+//     { name: "Python", value: 90 },
+//     { name: "SQL", value: 75 },
+//     { name: "Data Structures", value: 85 },
+//     { name: "C/C++", value: 65 },
+//     { name: "JavaScript", value: 90 },
+//     { name: "React", value: 65 },
+//     { name: "HTML/CSS", value: 55 },
+//     { name: "C#", value: 80 },
+//   ],
+//   softSkills: [
+//     { name: "Goal-Oriented", value: 80 },
+//     { name: "Collaboration", value: 90 },
+//     { name: "Positivity", value: 75 },
+//     { name: "Adaptability", value: 85 },
+//     { name: "Problem Solving", value: 75 },
+//     { name: "Empathy", value: 90 },
+//     { name: "Organization", value: 70 },
+//     { name: "Creativity", value: 90 },
+//   ],
+// };
 
 // GET IN TOUCH SECTION
 const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for intern data science or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "auliapramesthi@gmail.com",
+    "If you have any questions or discussions, or if you just want to say hi, please feel free to email me at",
+  email: "auliapramesthi01@gmail.com",
 };
 
 const experiences = {
@@ -152,4 +152,4 @@ const experiences = {
 //   show: false,
 // };
 
-export { navBar, mainBody, about, repos, skills, leadership, getInTouch, experiences };
+export { navBar, mainBody, about, repos, leadership, getInTouch, experiences };
