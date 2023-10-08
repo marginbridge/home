@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/home/static/css/main.fe927caf.css",
-    "main.js": "/home/static/js/main.f7075832.js",
+    "main.js": "/home/static/js/main.8dc82585.js",
     "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
     "static/media/auliapramesthi.png": "/home/static/media/auliapramesthi.0160e242e3a895fda8e9.png",
     "index.html": "/home/index.html",
     "main.fe927caf.css.map": "/home/static/css/main.fe927caf.css.map",
-    "main.f7075832.js.map": "/home/static/js/main.f7075832.js.map",
+    "main.8dc82585.js.map": "/home/static/js/main.8dc82585.js.map",
     "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.f7075832.js"
+    "static/js/main.8dc82585.js"
   ]
 }
